@@ -1,5 +1,7 @@
 # my-app
 
+### Vuetify Link: https://vuetifyjs.com/en/
+
 ## Project setup
 ```
 npm install
@@ -9,7 +11,6 @@ npm install
 ```
 npm run serve
 ```
-### Vuetify Link: https://vuetifyjs.com/en/
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
