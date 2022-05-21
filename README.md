@@ -1,6 +1,6 @@
 # my-app
 
-### Vuetify Link: https://vuetifyjs.com/en/
+### Vuetify Documentation: https://vuetifyjs.com/en/
 
 ## Project setup
 ```
