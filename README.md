@@ -1,4 +1,4 @@
-# my-app
+# Vuetify Talk
 
 ### Vuetify Documentation: https://vuetifyjs.com/en/
 
