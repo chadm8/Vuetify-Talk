@@ -3,6 +3,7 @@
 ### Vuetify Documentation: https://vuetifyjs.com/en/
 
 ### Start of Data
+```
 <script>
 export default {
   data() {
@@ -53,6 +54,7 @@ export default {
   },
 };
 </script>
+```
 ### End of data
 
 ## Project setup
